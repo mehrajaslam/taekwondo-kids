@@ -1,0 +1,147 @@
+{
+  "profiles": {
+    "athlete-j9h81jdf": {
+      "profileId": "athlete-j9h81jdf",
+      "xp": 25,
+      "lives": 2,
+      "streak": 1,
+      "completedLessons": [],
+      "movieWatched": [],
+      "settings": {
+        "organization": "Kukkiwon / WT",
+        "poomsaeSystem": "Taegeuk",
+        "language": "English",
+        "beltNames": [
+          "White",
+          "Yellow",
+          "Green",
+          "Blue",
+          "Red",
+          "Black",
+          "1st Dan",
+          "2nd Dan",
+          "3rd Dan",
+          "4th Dan",
+          "5th Dan",
+          "6th Dan",
+          "7th Dan",
+          "8th Dan",
+          "9th Dan"
+        ]
+      },
+      "theme": "light",
+      "sound": true,
+      "avatar": "🐯",
+      "questClaimed": false,
+      "quizWins": 1,
+      "language": "en",
+      "autoRead": false,
+      "speechRate": 1,
+      "sessions": 1,
+      "bestReaction": 0,
+      "lessonDates": {},
+      "athleteName": "",
+      "fightResults": [],
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      "updatedAt": "2026-11-17T06:39:31.295Z"
+    }
+  },
+  "appliedOps": {
+    "athlete-j9h81jdf": [
+      "snap-1794897510229-fezjg",
+      "snap-1794897532174-osvt6",
+      "snap-1794897534137-482cf"
+    ]
+  },
+  "peers": [
+    {
+      "id": "peer-sora",
+      "name": "Sora Kim",
+      "avatar": "🐉",
+      "xp": 640,
+      "beltIndex": 6,
+      "streak": 9,
+      "lessonsDone": 7,
+      "quizWins": 14,
+      "medals": {
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0
+      },
+      "updatedAt": "2026-11-17T06:04:19.664Z",
+      "isPeer": true
+    },
+    {
+      "id": "peer-noor",
+      "name": "Noor Al-Mansoor",
+      "avatar": "🦁",
+      "xp": 480,
+      "beltIndex": 4,
+      "streak": 7,
+      "lessonsDone": 5,
+      "quizWins": 11,
+      "medals": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      },
+      "updatedAt": "2026-11-17T06:04:19.665Z",
+      "isPeer": true
+    },
+    {
+      "id": "peer-leo",
+      "name": "Leo Rivera",
+      "avatar": "🐯",
+      "xp": 330,
+      "beltIndex": 3,
+      "streak": 5,
+      "lessonsDone": 4,
+      "quizWins": 8,
+      "medals": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      },
+      "updatedAt": "2026-11-17T06:04:19.665Z",
+      "isPeer": true
+    },
+    {
+      "id": "peer-aya",
+      "name": "Aya Malik",
+      "avatar": "🐼",
+      "xp": 215,
+      "beltIndex": 2,
+      "streak": 4,
+      "lessonsDone": 3,
+      "quizWins": 5,
+      "medals": {
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      "updatedAt": "2026-11-17T06:04:19.665Z",
+      "isPeer": true
+    },
+    {
+      "id": "peer-omar",
+      "name": "Omar Hassan",
+      "avatar": "🦊",
+      "xp": 120,
+      "beltIndex": 1,
+      "streak": 3,
+      "lessonsDone": 2,
+      "quizWins": 3,
+      "medals": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "updatedAt": "2026-11-17T06:04:19.665Z",
+      "isPeer": true
+    }
+  ]
+}

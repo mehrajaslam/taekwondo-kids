@@ -1,0 +1,6 @@
+{
+  "name": "Taekwondo Kids Adventure",
+  "description": "Interactive voice-guided Taekwondo learning game for kids with offline audio instructions, progress tracking, leaderboard, and offline synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
